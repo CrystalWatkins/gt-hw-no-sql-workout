@@ -4,8 +4,8 @@ const logger = require("morgan");
 const app = express();
 const PORT = process.env.PORT || 3000;
 const db = require("./models");
-const viewRoutes = require("./controllers/viewcontroller");
-const apiRoutes = require("./controllers/apicontroller");
+const viewRoutes = require("./routes/viewRoutes");
+const apiRoutes = require("./routes/apiRoutes");
 
 
 app.use(logger("dev"));
