@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const opts = {toJSON: {virtuals:true} };
+const opts = {toJSON: { virtuals: true } };
 const Schema = mongoose.Schema;
 
 const WorkoutSchema = new Schema({
