@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is a homework requirement for GT Full Stack Flex Program. 
+This is a homework requirement for GT Full Stack Flex Program. We are using 
 
 
 ## Table of Contents
@@ -23,25 +23,27 @@ This is a homework requirement for GT Full Stack Flex Program.
 * Copy github repo and clone to local computer
 
 
-[Link to Github Repo](#)
+[Link to Github Repo](https://crystalwatkins.github.io/gt-hw-no-sql-workout/.)
  
-[Link to Heroku Website](#).
+[Link to Heroku Website](https://sheltered-tor-04819.herokuapp.com/).
 
 
 ## Usage 
 
-This is a no SQL database.
+This is a no SQL database using mongoose db. We are creating a fitness app that allows you to add a workout based on cardio or resistance. You then input the fields required for your fitness workout and it will log the workout that you did on the home page. From there, you can click the fitness dashboard and you will see the last 7 days of your workout recorded as stats. 
 
-[Link to Github Repo](#).
+[Link to Github Repo](https://crystalwatkins.github.io/gt-hw-no-sql-workout/.).
  
-[Link to Heroku Website](#).
+[Link to Heroku Website](https://sheltered-tor-04819.herokuapp.com/).
 
-![Photo 1](#)
+![Photo 1](./public/assets/workout.png)
+![Photo 2](./public/assets/tracker.png)
+![Photo 3](./public/assets/dashboard.png)
 
 
 ## Credits
 
-<!-- This was a node express app created using mySQL, mySQL Workbench, node express, ORM, handlebars, and file structuring completed as a homework for the Georgia Tech, FullStack Flex Program. -->
+This was a no SQL app created for the Georgia Tech, FullStack Flex Program.
 
 ## MIT_License
 
