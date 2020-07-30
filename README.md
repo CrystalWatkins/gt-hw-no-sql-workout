@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is a homework requirement for GT Full Stack Flex Program. We are using 
+This is a homework requirement for GT Full Stack Flex Program. We are creating a fitness app that allows you to add a workout based on cardio or resistance. You then input the fields required for your fitness workout and it will log the workout that you did on the home page. From there, you can click the fitness dashboard and you will see the last 7 days of your workout recorded as stats. 
 
 
 ## Table of Contents
@@ -30,7 +30,7 @@ This is a homework requirement for GT Full Stack Flex Program. We are using
 
 ## Usage 
 
-This is a no SQL database using mongoose db. We are creating a fitness app that allows you to add a workout based on cardio or resistance. You then input the fields required for your fitness workout and it will log the workout that you did on the home page. From there, you can click the fitness dashboard and you will see the last 7 days of your workout recorded as stats. 
+This is a no SQL database using mongoose db.
 
 [Link to Github Repo](https://crystalwatkins.github.io/gt-hw-no-sql-workout/.).
  
